@@ -3,6 +3,11 @@
 
 TwitterController
 
+ЗАМЕЧАНИЯ
+------------
+
+Т.к в feed нет параметра user, то в sha1 просто sha1(id)
+
 **ERRORS:**
 
 config/web -> 
