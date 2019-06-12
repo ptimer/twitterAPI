@@ -39,8 +39,10 @@ return 'response' => [
 -------
 ADD
 
-#### [ADD] http://localhost/basic/web/twitter/add?id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM&user=elonmusk&secret=3DFB3E37B62F0F13CECA0DFA87A860B007A29E73
+#### 
+ElonMusk
+[ADD] https://kriminalmykriminal.000webhostapp.com/web/twitter/add?id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM&user=elonmusk&secret=3DFB3E37B62F0F13CECA0DFA87A860B007A29E73
 
-#### [FEED] http://localhost/basic/web/twitter/feed?secret=8500CD0D00463337BBD0908F6569F766AE54218C&id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM
+#### [FEED] https://kriminalmykriminal.000webhostapp.com/web/twitter/feed?id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM&secret=8500CD0D00463337BBD0908F6569F766AE54218C
 
-#### [REMOVE] http://localhost/basic/web/twitter/remove?id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM&user=elonmusk&secret=237609EF9EFAE336CF0FB342135626D2DC73C2ED```
+#### [REMOVE] https://kriminalmykriminal.000webhostapp.com/web/twitter/remove?id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM&user=elonmusk&secret=3DFB3E37B62F0F13CECA0DFA87A860B007A29E73id=WBYX1TLPRWJ7NSV36LCPP2OZFH6AE6LM&user=elonmusk&secret=237609EF9EFAE336CF0FB342135626D2DC73C2ED```
